@@ -29,10 +29,10 @@ By detecting the position of your thumb and index finger, the system calculates 
    
 2. Create a virtual environment (recommended):
 
-  python -m venv venv
-  source venv/Scripts/activate   # On Windows
+     python -m venv venv
+     source venv/Scripts/activate   # On Windows
   
-  source venv/bin/activate       # On macOS/Linux
+     source venv/bin/activate       # On macOS/Linux
   
 3. Install dependencies:
 
